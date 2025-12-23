@@ -12,6 +12,7 @@ This project analyzes logs and may help during Vibe coding sessions.
 
 See my apps on Google Play: [Drew Developer on Google Play](https://play.google.com/store/apps/developer?id=Drew+Developer)
 
+See my old apps on my blog: [WordPress](https://drewdeveloper.wordpress.com/)
 
 ## Canada Job Search 📸
 
