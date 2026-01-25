@@ -2,13 +2,23 @@
 
 ## I'm happy that I'm software developer
 
-## Vibe coding 🔧
+## Vibe coding
+
+### Log Analyer 🔧
 
 Check out my LogAnalyzer project for Vibe coding: [LogAnalyzer](https://github.com/hwanjongyu/LogAnalyzer)
 
-This project analyzes logs and may help during Vibe coding sessions.
+Public High Performance Desktop Log Analysis application.
+
+### MediaHub 🍿
+
+Check out my MediaHub project: [MediaHub](https://github.com/hwanjongyu/MediaHub)
+
+High-performance, local-first media management tool.
 
 ## Apps 📱
+
+Check out my Android App Portfolio: [Drew Developer Portfolio](https://drew-developer.github.io/)
 
 See my apps on Google Play: [Drew Developer on Google Play](https://play.google.com/store/apps/developer?id=Drew+Developer)
 
