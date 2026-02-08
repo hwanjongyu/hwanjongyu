@@ -15,6 +15,17 @@
   - **Filter Management:** Save/load filter configurations as JSON and manage custom filter tabs.
   - **Smart View:** "Show Only Highlighted" mode for focused analysis.
 
+### Log Analysis (Rust - Tauri v2) 🦀
+
+[LogAnalysis](https://github.com/hwanjongyu/LogAnalysis) is a high-performance, cross-platform log viewer and real-time monitoring tool built for speed.
+
+- **Tech Stack:** Rust (Tauri v2), React, TypeScript, Tailwind CSS, Tokio, Rayon.
+- **Key Features:**
+  - **Blazing Fast Indexing:** Memory-mapped files (`memmap2`) for quick access to multi-gigabyte logs with minimal RAM.
+  - **Real-time ADB Stream:** Direct integration with `adb logcat` using smart batching to prevent UI lag.
+  - **Advanced Filtering:** Multi-threaded Regex engine for complex Include/Exclude logic.
+  - **Virtualized View:** Efficiently displays millions of rows using `react-virtuoso`.
+
 ### Log Analysis GUI (Python) 🐍
 
 [loganalysis_gui](https://github.com/hwanjongyu/loganalysis_gui) is a Python-based log analysis tool with a focus on real-time monitoring.
