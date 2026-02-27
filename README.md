@@ -37,6 +37,17 @@
   - **Persistent Profiles:** Customizable filter profiles stored in JSON.
   - **Multi-layered Filtering:** Comprehensive Include/Exclude/Highlight system with regex support.
 
+### LuminaBook 📚
+
+[LuminaBook](https://github.com/hwanjongyu/LuminaBook) is a desktop-first EPUB library manager and reader designed for a premium reading experience.
+
+- **Tech Stack:** Flutter, Riverpod, Isar NoSQL, go_router.
+- **Key Features:**
+  - **Digital Bookshelf:** A visually stunning "physical bookshelf" UI for your digital library.
+  - **Recursive Scanning:** Automatically scans folders to build and update your book collection.
+  - **Native EPUB Reader:** High-performance rendering with customizable themes and typography.
+  - **Modular Design:** Built with a feature-first architecture for high performance and maintainability.
+
 ### MediaHub 🍿
 
 [MediaHub](https://github.com/hwanjongyu/MediaHub) is a high-performance, local-first media management tool.
